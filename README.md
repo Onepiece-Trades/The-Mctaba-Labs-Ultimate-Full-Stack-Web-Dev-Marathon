@@ -1,0 +1,2 @@
+# The-Mctaba-Labs-Ultimate-Full-Stack-Web-Dev-Marathon
+This project  is designed to empower small businesses in Africa it focuses on building web efficient web solutions that enhance payment systems customer care and communication by addressing the unique needs of retail traders and small enterprises the project aims to provide accessible and effective tools that will help these businesses thrive.
